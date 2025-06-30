@@ -1,1 +1,1 @@
-# QR-Generator
+# QRGEN21.COM
